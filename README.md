@@ -12,3 +12,7 @@ This automation, developed using VBA programming, effectively streamlines repeti
 - Transformation of formulas into static values to maintain integrity
 - Efficient data manipulation using find-and-replace operations
 - Creation and management of custom columns within Excel for enhanced data structuring
+
+#### PowerShell scripting
+- Automated system for local file organization, optimizing the management of various files within our system
+- Automated renaming of files based on the identification numbers of reports, particularly those generated 2-3 times per week, thereby improving efficiency and accuracy within our report management workflow
